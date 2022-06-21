@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="61" updatableVersionMin="" updatableVersionMax="" fileName="bs_windows-x64_1.exe" newVersion="1" newMediaFileId="61" fileSize="36130816" md5Sum="adc14172525d98cbbb4722203ba84e4f" sha256Sum="1a976048bc939de4a04aa54d05f53649e34a28d4a4f094a7007756f19355d08e" bundledJre="windows-amd64-1.8.0.tar.gz" archive="false" singleBundle="false">
+    <comment language="en" />
+  </entry>
+</updateDescriptor>
